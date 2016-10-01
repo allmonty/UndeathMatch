@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 1a609e35ebd26ca4ab33e7cab56b4225
+timeCreated: 1475310116
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature_000
+    100006: ArmorArm_L
+    100008: ArmorArm_R
+    100010: ArmorLeg_L
+    100012: ArmorLeg_R
+    100014: ArmorShoulderLeft
+    100016: ArmorShoulderRight
+    100018: Body
+    100020: Chest
+    100022: Finger_1_L
+    100024: Finger_1_R
+    100026: Finger_2_L
+    100028: Finger_2_R
+    100030: Finger_3_L
+    100032: Finger_3_R
+    100034: Finger_4_L
+    100036: Finger_4_R
+    100038: Foot_L
+    100040: Foot_R
+    100042: Head
+    100044: Helmet
+    100046: Hips_L
+    100048: Hips_R
+    100050: IK_Foot_L
+    100052: IK_Foot_R
+    100054: IK_Hand_L
+    100056: IK_Hand_R
+    100058: Leg_L
+    100060: Leg_R
+    100062: Neck
+    100064: //RootNode
+    100066: Shield
+    100068: Shoulder_L
+    100070: Shoulder_R
+    100072: Sword
+    100074: Thumb_1_L
+    100076: Thumb_1_R
+    100078: Thumb_2_L
+    100080: Thumb_2_R
+    100082: Torso
+    100084: Upper_Arm_L
+    100086: Upper_Arm_R
+    100088: Upper_Leg_L
+    100090: Upper_Leg_R
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature_000
+    400006: ArmorArm_L
+    400008: ArmorArm_R
+    400010: ArmorLeg_L
+    400012: ArmorLeg_R
+    400014: ArmorShoulderLeft
+    400016: ArmorShoulderRight
+    400018: Body
+    400020: Chest
+    400022: Finger_1_L
+    400024: Finger_1_R
+    400026: Finger_2_L
+    400028: Finger_2_R
+    400030: Finger_3_L
+    400032: Finger_3_R
+    400034: Finger_4_L
+    400036: Finger_4_R
+    400038: Foot_L
+    400040: Foot_R
+    400042: Head
+    400044: Helmet
+    400046: Hips_L
+    400048: Hips_R
+    400050: IK_Foot_L
+    400052: IK_Foot_R
+    400054: IK_Hand_L
+    400056: IK_Hand_R
+    400058: Leg_L
+    400060: Leg_R
+    400062: Neck
+    400064: //RootNode
+    400066: Shield
+    400068: Shoulder_L
+    400070: Shoulder_R
+    400072: Sword
+    400074: Thumb_1_L
+    400076: Thumb_1_R
+    400078: Thumb_2_L
+    400080: Thumb_2_R
+    400082: Torso
+    400084: Upper_Arm_L
+    400086: Upper_Arm_R
+    400088: Upper_Leg_L
+    400090: Upper_Leg_R
+    4300000: ArmorLeg_R
+    4300002: ArmorLeg_L
+    4300004: Helmet
+    4300006: ArmorShoulderLeft
+    4300008: ArmorShoulderRight
+    4300010: ArmorArm_L
+    4300012: ArmorArm_R
+    4300014: Body
+    4300016: Shield
+    4300018: Sword
+    7400000: Default Take
+    7400002: Attack
+    7400004: Block
+    7400006: Idlegood
+    7400008: Run
+    7400010: Walk
+    9500000: //RootNode
+    13700000: ArmorArm_L
+    13700002: ArmorArm_R
+    13700004: ArmorLeg_L
+    13700006: ArmorLeg_R
+    13700008: ArmorShoulderLeft
+    13700010: ArmorShoulderRight
+    13700012: Body
+    13700014: Helmet
+    13700016: Shield
+    13700018: Sword
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
