@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: e80b32ae9783cab46a2e9847a9f54a07
-timeCreated: 1475305749
+guid: 4ff5a56c2938c994ebc6b40885e11040
+timeCreated: 1475306756
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -93,12 +93,8 @@ ModelImporter:
     400082: Upper_Arm_R
     400084: Upper_Leg_L
     400086: Upper_Leg_R
-    2300000: GhostLeg_L
-    2300002: GhostLeg_R
-    3300000: GhostLeg_L
-    3300002: GhostLeg_R
-    4300000: GhostLeg_R
-    4300002: GhostLeg_L
+    4300000: GhostLeg_L
+    4300002: GhostLeg_R
     4300004: GhostHelm
     4300006: GhostShoulder_L
     4300008: GhostShoulder_R
@@ -116,8 +112,10 @@ ModelImporter:
     13700002: GhostArm_R
     13700004: GhostBody
     13700006: GhostHelm
-    13700008: GhostShoulder_L
-    13700010: GhostShoulder_R
+    13700008: GhostLeg_L
+    13700010: GhostLeg_R
+    13700012: GhostShoulder_L
+    13700014: GhostShoulder_R
   materials:
     importMaterials: 1
     materialName: 0
